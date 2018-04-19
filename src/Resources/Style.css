@@ -1,11 +1,11 @@
 body {
-    background: black;
+    background: white;
     font-family: sans-serif;
     font-size: .8em;
     margin: 0;
 }
 #page {    
-    background: black;
+    background: white;
 }
 #content {
     z-index: 2;
